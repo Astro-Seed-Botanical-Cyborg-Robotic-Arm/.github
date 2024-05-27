@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,19 +10,19 @@
 -->
 
 
-Astro Seed - Botanical Cyborg: Robotic Arm for Terra Pod's Plant Maintenance
+#Astro Seed - Botanical Cyborg: Robotic Arm for Terra Pod's Plant Maintenance
 <!--Proposer: Vishnu Bhargav vishnubhargav031@gmail.com or vmuthyal@asu.edu-->
-Project Description: Overview:
+##Project Description: Overview:
 
  AstroSeed invites you to partake in an ambitious project: the design and development of a robotic arm that will carry out labor-intensive tasks within the Terra Pod. The Terra Pod is an innovative, self-sustaining ecosystem designed for growing plants in extreme environments. Your contribution to this project will be key in achieving substantial labor cost reductions, as well as enhancing efficiency and accuracy of plant care within the system.
 
 Please go through the documents provided to know more about Terra pod but briefly, Terra Pod is an enclosed, controlled-environment agricultural system that uses aeroponic technology, precision sensors, and AI to optimize plant growth and yields. It allows for indoor precision farming virtually anywhere while using fewer resources than traditional agriculture.
 
-Challenge: 
+##Challenge: 
 
 The prime challenge of this project lies in automating various labor-intensive tasks performed in the Terra Pod. These tasks include pruning, harvesting, and general plant care. The key is to evaluate these tasks for their suitability for automation and to design a robotic arm capable of performing them with precision, efficiency, and safety. The difficulty in replicating human dexterity and sensitivity in a robotic mechanism poses a significant challenge.
 
-Impact: 
+##Impact: 
 
 The successful development and integration of a robotic arm will usher in a new era of autonomous plant care within the Terra Pod system. This leap in innovation not only reduces labor costs and increases efficiency, but also paves the way for the deployment of Terra Pod systems in remote or inhospitable locations where regular human intervention might be challenging. By working on this project, you will have the opportunity to influence the field of space agriculture and indoor farming, contributing to the vision of making life sustainable in extreme environments, be it the poles, deserts, or even other planets.
 Student Learning Goals: In this project, you'll embark on a multidimensional learning journey that intersects the realms of robotics, computer vision, deep learning, reinforcement learning, and automation in agriculture. Here are some specific learning experiences and opportunities that you'll be a part of:
@@ -45,7 +43,8 @@ At AstroSeed, you won't be working on abstract problems. Instead, you'll address
 
 
 
-Deliverables: By the end of the two-semester sequence, the students are expected to deliver the following:
+##Deliverables:
+By the end of the two-semester sequence, the students are expected to deliver the following:
 
     1. Functional Robotic Arm: A physical prototype of a robotic arm capable of performing identified tasks, such as pruning, harvesting, and general plant care in the Terra Pod.
 
@@ -60,7 +59,8 @@ Deliverables: By the end of the two-semester sequence, the students are expected
     6. Presentation: A final presentation demonstrating the functionality of the robotic arm and its impact on the Terra Pod's operations.
 
     7. Source Code and Data: All the source code used for the project, including scripts for ROS, computer vision, deep learning, and reinforcement learning algorithms, along with any collected data, should be shared following appropriate guidelines for reproducibility and further development.
-Desired Background: For this project, we are looking for a team of students with a combination of skills in both hardware and software areas, given the nature of the project which involves building a physical robotic arm and developing software to control it.
+##Desired Background:
+For this project, we are looking for a team of students with a combination of skills in both hardware and software areas, given the nature of the project which involves building a physical robotic arm and developing software to control it.
 Here is a list of the desired background and skills:
 
     1. Robotics: The core of this project is the development of a robotic arm. Knowledge and experience in robotics, including understanding of robotics hardware, robot kinematics and dynamics are crucial.
@@ -85,7 +85,6 @@ Remember, AstroSeed is an interdisciplinary team and you will have access to a v
 Required Agreements: 
 Non-Disclosure Agreement
 Intellectual Property Agreement
-Additional Materials: https://www.dropbox.com/s/6456qqdew5tfy4a/Astroseed_%20brief.pdf?dl=0
 
 https://astroseed.net/
 
